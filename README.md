@@ -1,5 +1,5 @@
 # Uxtron-bot-docs
-This is the official uxtron bot girhub repository for the Uxtron bot docs.<br/> 
+This is the official uxtron bot github repository for the Uxtron bot docs.<br/> 
 <br/> To submit a feature request, please go to the **discussions section** in this github repository and **select the feature request tag**.
 
 ## How to use this repository
