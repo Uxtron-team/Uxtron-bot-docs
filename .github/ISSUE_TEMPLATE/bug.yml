@@ -2,7 +2,7 @@ name: Uxtron bug report
 description: Use this if a bug has been found in the Uxtron bot
 labels: ["bug"]
 body:
-  - type: markdown
+- type: markdown
   value: "### Uxtron bug/typo report"
   - type: markdown
   attributes:
