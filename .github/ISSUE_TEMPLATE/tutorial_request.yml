@@ -31,7 +31,7 @@ body:
     attributes:
       label: Agreements
       options:
-        - labeL: I agree that this tutorial request is related to Uxtron
+        - label: I agree that this tutorial request is related to Uxtron
         required: true
         - label: I agree that this tutorial request is appropriate
         required: true
