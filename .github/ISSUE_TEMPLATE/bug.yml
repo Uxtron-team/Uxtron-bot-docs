@@ -2,11 +2,11 @@ name: Uxtron bug report
 description: Use this if a bug has been found in the Uxtron bot
 labels: ["bug"]
 body:
-- type: markdown
+  - type: markdown
   value: "## Before you open a new report, please check if a similar report already exists here: github.com/Uxtron-team/Uxtron-bot-docs/issues"
-- type: markdown
+  - type: markdown
   value: "### Uxtron bug/typo report"
-- type: markdown
+  - type: markdown
   attributes:
     value: |
       Thanks for taking the time to fill out this bug! If you need real-time help, please join our discord server: https://discord.gg/EuzUKcNuKD
@@ -41,15 +41,14 @@ body:
       description: Provide a screenshot and/or video as proof of the bug
     validations:
       required: true
-body:
-- type: checkboxes
-  id: agreement
-  attributes:
-    label: Agreements
-    description: Please agree to the following before you submit this report
-    options:
-      - label: I agree that you have used the bot normally and have not purposely made a fake error message
-        required: true
-      - label: I agree that this report is not a duplicate of another report
-        required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreements
+      description: Please agree to the following before you submit this report
+      options:
+        - label: I agree that you have used the bot normally and have not purposely made a fake error message
+          required: true
+        - label: I agree that this report is not a duplicate of another report
+          required: true
      
