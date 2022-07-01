@@ -28,8 +28,10 @@ body:
     validations:
       required: true
   - type: checkbox
+    id: agreements
     attributes:
       label: Agreements
+      description: Please agree to the following.
       options:
         - label: I agree that this tutorial request is related to Uxtron
         required: true
