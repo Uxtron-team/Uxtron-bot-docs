@@ -3,9 +3,8 @@ description: Use this if a bug has been found in the Uxtron bot
 labels: ["bug"]
 body:
   - type: markdown
-    attributes:
-      value: |
-        "## Welcome!<br />Please make sure this report is not a duplicate of an already existing report. If you need real-time help, join us on Discord."
+    value: |
+      "## Welcome!<br />Please make sure this report is not a duplicate of an already existing report. If you need real-time help, join us on Discord."
   - type: dropdown
     attributes:
       label: What type of bug is this?
