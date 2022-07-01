@@ -3,16 +3,16 @@ description: Request a tutorial
 labels: ["tutorial request"]
 body:
   - type: dropdown
-  id: type
-  attributes:
-    label: What type of tutorial are you requesting
-    options:
-      - Feature usage tutorials
-      - Setting up tutorials
-      - Command usage tutorials
-      - Other
-  validations:
-    required: true
+    id: type
+    attributes:
+      label: What type of tutorial are you requesting
+      options:
+        - Feature usage tutorials
+        - Setting up tutorials
+        - Command usage tutorials
+        - Other
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
