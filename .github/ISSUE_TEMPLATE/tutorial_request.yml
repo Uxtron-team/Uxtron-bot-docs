@@ -4,7 +4,18 @@ labels: ["tutorial request"]
 body:
   - type: markdown
     attributes:
-      value: "Before opening a new request, please make sure that there are no similar, existing requests."
+      value: "Before opening a new request, please make sure that there are no similar, existing requests. Also make sure that this tutorial you are requesting is not on the official Uxtron bot wiki"
+  - type: dropdown
+  id: type
+  attributes:
+    label: What type of tutorial are you requesting
+    options:
+      - Feature usage tutorials
+      - Setting up tutorials
+      - Command usage tutorials
+      - Other
+  validations:
+    required: true
   - type: textarea
     id: description
     attributes:
@@ -12,11 +23,20 @@ body:
       description: Provide a clear description on what the tutorial is for. 
     validations:
       required: true
+  - type: textarea
+    id: aim
+    attributes:
+      label: Tutorial aim
+      description: Provide a clear description on what the tutorial will teach.
+    validations:
+      required: true
   - type: checkbox
     attributes:
       label: Agreements
       options:
-        - I agree that this tutorial request is related to Uxtron
+        - labeL: I agree that this tutorial request is related to Uxtron
         required: true
-        - I agree that this tutorial request is appropriate
+        - label: I agree that this tutorial request is appropriate
+        required: true
+        - label: I agree that this tutorial cannot be found on the official Uxtron bot wiki
         required: true
