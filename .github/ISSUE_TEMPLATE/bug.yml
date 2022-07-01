@@ -4,8 +4,10 @@ labels: ["bug"]
 body:
   - type: markdown
     value: "## Uxtron bug/typo report"
+  - type: markdown
     attributes:
-      value: "Thanks for taking the time to fill out this bug! If you need real-time help, please join our discord server: https://discord.gg/EuzUKcNuKD"
+      value: |
+        Thanks for taking the time to fill out this bug! If you need real-time help, please join our discord server: https://discord.gg/EuzUKcNuKD
   - type: dropdown
     attributes:
       label: What type of bug is this?
