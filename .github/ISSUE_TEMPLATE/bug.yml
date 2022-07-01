@@ -10,7 +10,9 @@ body:
     attributes:
       label: What type of bug is this?
       description: Please select the type of bug you are reporting
-      options: "Typo, not responding"
+      options: 
+        - Typo
+        - not responding
   - type: markdown
     attributes:
       value: "Before you open a new report, please check if a similar report already exists here: github.com/Uxtron-team/Uxtron-bot-docs/issues"
