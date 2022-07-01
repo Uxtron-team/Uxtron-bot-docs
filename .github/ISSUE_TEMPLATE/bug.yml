@@ -1,0 +1,28 @@
+name: Uxtron bot bug report
+description: Use this if a bug has been found in the Uxtron bot
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before you open a new report, please check if a similar report already exists here: github.com/Uxtron-team/Uxtron-bot-docs/issues"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a clear and consise description of what the bug is
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What do you expect should happen if there was no error
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/Videos
+      description: Provide a screenshot and/or video as proof of the bug
+    validations:
+      required: true
