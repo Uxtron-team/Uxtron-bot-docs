@@ -34,8 +34,8 @@ body:
       description: Please agree to the following.
       options:
         - label: I agree that this tutorial request is related to Uxtron
-        required: true
+          required: true
         - label: I agree that this tutorial request is appropriate
-        required: true
+          required: true
         - label: I agree that this tutorial cannot be found on the official Uxtron bot wiki
-        required: true
+          required: true
