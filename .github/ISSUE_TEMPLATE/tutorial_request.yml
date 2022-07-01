@@ -1,0 +1,22 @@
+name: Tutorial request
+description: Request a tutorial
+labels: ["tutorial request"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new request, please make sure that there are no similar, existing requests."
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a clear description on what the tutorial is for. 
+    validations:
+      required: true
+  - type: checkbox
+    attributes:
+      label: Agreements
+      options:
+        - I agree that this tutorial request is related to Uxtron
+        required: true
+        - I agree that this tutorial request is appropriate
+        required: true
