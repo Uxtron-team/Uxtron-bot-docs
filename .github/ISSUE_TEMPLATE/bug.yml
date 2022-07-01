@@ -2,15 +2,20 @@ name: Uxtron bug report
 description: Use this if a bug has been found in the Uxtron bot
 labels: ["bug"]
 body:
+  - type: markdown
+    value: "## Welcome!"
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this report is not a duplicate of an already existing report. If you need real-time help, join us on Discord.
   - type: dropdown
     attributes:
       label: What type of bug is this?
       description: Please select the type of bug you are reporting
       options: 
-        - Typo
-        - not responding
-        - wrong response
-        - Does not act correctly
+        - The bot not responding
+        - The bot responding incorrectly
+        - The bot not acting correctly
         - Other
   - type: textarea
     id: description
