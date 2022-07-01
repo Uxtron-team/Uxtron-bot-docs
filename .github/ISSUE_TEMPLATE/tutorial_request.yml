@@ -27,7 +27,7 @@ body:
       description: Provide a clear description on what the tutorial will teach.
     validations:
       required: true
-  - type: checkbox
+  - type: checkboxes
     id: agreements
     attributes:
       label: Agreements
