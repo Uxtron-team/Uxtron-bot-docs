@@ -52,6 +52,6 @@ body:
     options:
       - label: I agree that you have used the bot normally and have not purposely made a fake error message
         required: true
-      - label: I agree that this report is not a duplicate of a report
+      - label: I agree that this report is not a duplicate of another report
         required: true
      
