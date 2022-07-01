@@ -2,10 +2,6 @@ name: Tutorial request
 description: Request a tutorial
 labels: ["tutorial request"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Before opening a new request, please make sure that there are no similar, existing requests. Also make sure that this tutorial you are requesting is not on the official Uxtron bot wiki
   - type: dropdown
   id: type
   attributes:
