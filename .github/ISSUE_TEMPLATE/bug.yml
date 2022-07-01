@@ -3,8 +3,7 @@ description: Use this if a bug has been found in the Uxtron bot
 labels: ["bug"]
 body:
 - type: markdown
-    attributes:
-      value: " ## Before you open a new report, please check if a similar report already exists here: github.com/Uxtron-team/Uxtron-bot-docs/issues"
+  value: "## Before you open a new report, please check if a similar report already exists here: github.com/Uxtron-team/Uxtron-bot-docs/issues"
 body:
   - type: markdown
     value: "## Uxtron bug/typo report"
