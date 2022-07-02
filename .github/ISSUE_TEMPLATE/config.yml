@@ -5,7 +5,7 @@ contact_links:
     about: A link to our discord support server
   - name: Feature requests and the community forum
     url: https://github.com/Uxtron-team/Uxtron-bot-docs/discussions
-    about: Need documentation and examples for the API? Head over to Discord's developer documentation.
+    about: Need some help or want to request a feature? Head over to our forum!
   - name: Uxtron bot wiki
     url: https://github.com/Uxtron-team/Uxtron-bot-docs/wiki
     about: A link to the Uxtron bot wiki
