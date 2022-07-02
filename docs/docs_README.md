@@ -5,8 +5,8 @@ This is where you will find detailed explanations on everything to do with the U
 If you see something in `this format`, it is technical things. Usually, only commands or arguments will be in `this format` but sometimes, other things will be in there too.
 
 ### Code block format (`this`)
-[] - a placeholder/variable
-e.g: [your command] will be 'your command'
+[] - a placeholder/variable<br />
+e.g: [your command] will be
 
 when you see the documentation include something like 'type in `/[specified command]`', it doesn't mean type in /[specified command]. It means type the 'specified command'.
 
