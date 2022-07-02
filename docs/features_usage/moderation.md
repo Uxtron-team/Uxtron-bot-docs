@@ -10,9 +10,9 @@ Most features have a command to configure these features seperately. If you don'
 > The dashboard is WIP (Work In Progress).
 
 ### Using each command's own configuration command
-If you can find the specific configuration command for a command, here's how to use it. If you can't use the `/cmdconfig` command [/cmdconfig usage info](###/cmdconfig)
+If you can find the specific configuration command for a command, here's how to use it. 
 
-
+> WIP
 
 ### /cmdconfig
 To configure commands using `cmdconfig`, you simply run the command `/cmdconfig` (note that 'cmdconfig' requires **manage server** permissions) and select the feature you want to configure.
@@ -31,5 +31,10 @@ If you have finished the steps above, test if the features you changes have been
 
 
 ## Feature/command usage
-Now that you have finished setting up all your features and commands, you can use them easily
+Now that you have finished setting up all your features and commands, you can use them easily!
 
+### Features
+Features that you enabled via the dashboard, the feature's config command or the /cmdconfig command (see above) will now be activated and will always be on (unless disabled). For example, if you enable the anti-profanity feature, it will always check for profanity and perform the action specified when configuring the feature.
+
+### Commands
+After configuring a command, you can use the command by typing in `/[configured command]` and any other arguments required.
