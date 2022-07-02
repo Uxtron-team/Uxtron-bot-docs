@@ -6,8 +6,6 @@ If you see something in `this format`, it is technical things. Usually, only com
 
 ### Code block format (`this`)
 [] - a placeholder/variable<br />
-e.g: [your command] will be
-
-when you see the documentation include something like 'type in `/[specified command]`', it doesn't mean type in /[specified command]. It means type the 'specified command'.
+When you see the documentation include something like 'type in `/[specified command]`', it doesn't mean type in '/[specified command]'. It means type the 'specified command'.
 
 > WIP
