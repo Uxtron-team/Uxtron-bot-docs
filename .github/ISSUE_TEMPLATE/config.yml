@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Uxtron support server
-    url: https://discord.gg/EuzUKcNuKD
-    about: A link to our discord support server
   - name: Feature requests and the community forum
     url: https://github.com/Uxtron-team/Uxtron-bot-docs/discussions
     about: Need some help or want to request a feature? Head over to our forum!
@@ -12,3 +9,6 @@ contact_links:
   - name: Uxtron bot documentation
     url: https://github.com/Uxtron-team/Uxtron-bot-docs/tree/main/docs
     about: Want more detailed explanations on how to use the Uxtron bot? Come here!
+  - name: Uxtron support server
+    url: https://discord.gg/EuzUKcNuKD
+    about: Do you need real-time support? Head over here to our support server!
