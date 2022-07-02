@@ -28,8 +28,6 @@ If you have finished the steps above, test if the features you changes have been
 | --- |
 
 
-
-
 ## Feature/command usage
 Now that you have finished setting up all your features and commands, you can use them easily!
 
@@ -37,4 +35,8 @@ Now that you have finished setting up all your features and commands, you can us
 Features that you enabled via the dashboard, the feature's config command or the /cmdconfig command (see above) will now be activated and will always be on (unless disabled). For example, if you enable the anti-profanity feature, it will always check for profanity and perform the action specified when configuring the feature.
 
 ### Commands
-After configuring a command, you can use the command by typing in `/[configured command]` and any other arguments required.
+After configuring a command, you can use the command by typing in `/[configured command]` and any other arguments required. 
+
+###
+
+## Working with command configuration
