@@ -2,17 +2,10 @@
 The Uxtron bot containes many moderation features like user management (muting members, kicking members, etc.) that help you build your discord community to the highest level. These features are relatively easy to use but if you want a few pointers or tips on how to use these features, continue reading below.
 
 ## Setting up these features/commands
-If you haven't activated the bot in your server yet, run `/activate` and if the bot doesn't return any errors (if it does, contact support), you're good to go!'
-
-Most features have a command to configure these features seperately. If you don't find a command for that, you can configure the features in the dashboard (WIP) or by using the `/cmdconfig` command.
+You can configure the features in the dashboard (WIP) or by using the `/cmdconfig` command.
 
 ### Dashboard
 > The dashboard is WIP (Work In Progress).
-
-### Using each command's own configuration command
-If you can find the specific configuration command for a command, here's how to use it. 
-
-> WIP
 
 ### /cmdconfig
 To configure commands using `cmdconfig`, you simply run the command `/cmdconfig` (note that 'cmdconfig' requires **manage server** permissions) and select the feature you want to configure.
@@ -32,11 +25,11 @@ If you have finished the steps above, test if the features you changes have been
 Now that you have finished setting up all your features and commands, you can use them easily!
 
 ### Features
-Features that you enabled via the dashboard, the feature's config command or the /cmdconfig command (see above) will now be activated and will always be on (unless disabled). For example, if you enable the anti-profanity feature, it will always check for profanity and perform the action specified when configuring the feature.
+Features that you enabled via the dashboard, or the /cmdconfig command (see above) will now be activated and will always be on (unless disabled). For example, if you enable the anti-profanity feature, it will always check for profanity and perform the action specified when configuring the feature.
 
 ### Commands
 After configuring a command, you can use the command by typing in `/[configured command]` and any other arguments required. 
 
-###
+***
 
-## Working with command configuration
+## Working with advanced command configuration
