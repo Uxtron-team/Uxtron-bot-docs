@@ -1,5 +1,5 @@
 # Moderation features
-The Uxtron bot containes many moderation features like user management (muting members, kicking members, etc.) that help you build your discord community to the highest level. These features are relatively easy to use but if you want a few pointers or tips on how to use these features, please continue reading below.
+The Uxtron bot containes many moderation features like user management (muting members, kicking members, etc.) that help you build your discord community to the highest level. These features are relatively easy to use but if you want a few pointers or tips on how to use these features, continue reading below.
 
 ## Setting up these features/commands
 If you haven't activated the bot in your server yet, run `/activate` and if the bot doesn't return any errors (if it does, contact support), you're good to go!'
