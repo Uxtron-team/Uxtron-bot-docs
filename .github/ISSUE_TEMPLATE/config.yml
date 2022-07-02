@@ -9,3 +9,6 @@ contact_links:
   - name: Uxtron bot wiki
     url: https://github.com/Uxtron-team/Uxtron-bot-docs/wiki
     about: A link to the Uxtron bot wiki
+  - name: Uxtron bot documentation
+    url: https://github.com/Uxtron-team/Uxtron-bot-docs/tree/main/docs
+    about: Want more detailed explanations on how to use the Uxtron bot? Come here!
