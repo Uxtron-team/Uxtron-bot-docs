@@ -13,6 +13,12 @@ If you are thinking about contributing to the Uxtron documentation, please follo
 These are achieved with
 
 ```
+>[!WARNING]<br />
+>This is a warning
+```
+>[!WARNING]<br />
+>This is a warning
+```
 > **Warning**<br />
 > This is a warning
 ```
