@@ -9,22 +9,17 @@ If you would like to contribute to the documentation, commit your changes and su
 ## Format
 If you are thinking about contributing to the Uxtron documentation, please follow the format listed below!
 
-### Warning, tip or note blocks
+### Warning, or note blocks
 These are achieved with
 
 ```
-> #### **⚠️WARNING: Example title**  
-> Example description
-```
-this
-```
-> #### **💡TIP: Example title**  
-> Example description
+> **Warning**
+> This is a warning
 ```
 or this
 ```
-> #### **📝NOTE: Example title**  
-> Example description
+> **Note**
+> This is a note
 ```
 
 ### Linking
@@ -41,7 +36,5 @@ Linking websites or linking between docs can be achieved with
 ```
 [hyperlink text](#file_name/heading_name)
 ```
-> **Note**
-> This is a note
 
 > WIP
