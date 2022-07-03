@@ -13,12 +13,12 @@ If you are thinking about contributing to the Uxtron documentation, please follo
 These are achieved with
 
 ```
-> **Warning**
+> **Warning**<br />
 > This is a warning
 ```
 or this
 ```
-> **Note**
+> **Note**<br />
 > This is a note
 ```
 
