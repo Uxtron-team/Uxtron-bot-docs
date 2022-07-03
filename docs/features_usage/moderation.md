@@ -11,9 +11,9 @@ You can configure the features in the dashboard (WIP) or by using the `/cmdconfi
 To configure commands using `cmdconfig`, you simply run the command `/cmdconfig` (note that 'cmdconfig' requires **manage server** permissions) and select the feature you want to configure.
 
 Steps:
-- run /cmdconfig
-- select a feature
-- choose the options provided and make changes to them.
+1. run /cmdconfig
+2. select a feature
+3. choose the options provided and make changes to them.
 
 If you have finished the steps above, test if the features you changes have been modified! If they have not been changed, wait for a while and if it still doesn't change, contact support.
 
