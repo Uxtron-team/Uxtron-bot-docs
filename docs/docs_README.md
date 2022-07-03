@@ -41,6 +41,6 @@ Linking websites or linking between docs can be achieved with
 ```
 [hyperlink text](#file_name/heading_name)
 ```
-[hyperlink text](#docs_README/Format)
+
 
 > WIP
