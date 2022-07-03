@@ -19,10 +19,8 @@ Steps:
 
 If you have finished the steps above, test if the features you changes have been modified! If they have not been changed, wait for a while and if it still doesn't change, contact support.
 
-
-> #### **📝NOTE: Using /cmdconfig to enable/disable feautures & commands**  
-> You can also enable and disable features and commands with the /cmdconfig command.
-
+> **Note**
+> You can also enable and disable features and commands with the /cmdconfig command
 
 ## Feature/command usage
 Now that you have finished setting up all your features and commands, you can use them easily!
