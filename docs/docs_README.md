@@ -30,13 +30,13 @@ or this
 ### Linking
 Linking websites or linking between docs can be achieved with
 
-**Linking websites**
+**Linking websites**<br />
 \[`DISPLAY TEXT`](`URL`)
 ```
 [hyperlink text](example_url.com)
 ```
 
-**Linking between docs**
+**Linking between docs**<br />
 \[`DISPLAY TEXT`](`DOCS LINK`)
 ```
 [hyperlink text](#file_name/heading_name)
