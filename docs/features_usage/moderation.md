@@ -19,7 +19,7 @@ Steps:
 
 If you have finished the steps above, test if the features you changes have been modified! If they have not been changed, wait for a while and if it still doesn't change, contact support.
 
-> **Note**
+> **Note**<br />
 > You can also enable and disable features and commands with the /cmdconfig command
 
 ## Feature/command usage
