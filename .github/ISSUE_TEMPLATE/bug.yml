@@ -4,25 +4,27 @@ labels: ["bug"]
 body:
   - type: dropdown
     attributes:
-      label: What type of bug is this?
-      description: Please select the type of bug you are reporting
+      label: In what ways is the bot malfunctioning?
+      description: Please select the category of the issue you are reporting. If your issue isnt listed below, please try to select the closest match to your issue, or choose the "other" option
       options: 
         - The bot not responding
         - The bot responding incorrectly
         - The bot not acting correctly
         - Other
+    validations:
+      required: true
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: Please provide a clear and consise description of what the bug is
+      description: Please provide a clear description of what the error is.
     validations:
       required: true
   - type: textarea
     id: reproduce
     attributes:
-      label: How is the error experienced/how to experience the bug
-      description: How do you experience the bug? Please provide a clear description.
+      label: How can you reproduce this bug?
+      description: Please give a step by step guide on how to reproduce this bug or mistake. It would be greatly appreciated if you could go into detail with each step!
     validations:
       required: true
   - type: textarea
@@ -36,10 +38,14 @@ body:
     id: agreement
     attributes:
       label: Agreements
-      description: Please agree to the following before you submit this report
+      description: Please agree to the following statements before you submit this report
       options:
-        - label: I agree that you have used the bot normally and have not purposely made a fake error message
+        - label: The issue listed in this report was experienced while using the bot under normal circumstances.
           required: true
-        - label: I agree that this report is not a duplicate of another report
+        - label: I have at least put some effort into making sure this issue has not been previously reported by another user.
+          required: true
+        - label: I acknowledge that once I submit this report, I give all admins and moderators permission to publicize this report, with all details included, and with my username publicly visible.
+          required: true
+        - label: I am confident that this report is genuine and is an actual error in the bot, and have adequately described the issue so the admins have enough information to reproduce this error and fix it.
           required: true
      
