@@ -1,16 +1,23 @@
-# Description
+# Pull Request 
 
-Please include a summary of the changes.
+## Requesting merge
+`main <-- [branch]`
+
+## Changes
+Changes made to header `[header]` **OR (choose one)** Submitted a new file 
+
+Modified text: **reviewed/not reviewed**
 
 
-# Has this been reviewed?
+### Description
+Add a description of changes you made 
 
-Please tick 'reviewed' if you have reviewed your changes. 
+### Info
+Referenced [number of folders] folder(s) in new changes
 
-- [ ] Reviewed
+## Agreements
+`By submitting a pull request, I agree that the commits I made contains no profanity or any text related to profanity.`
+**I agree/I disagree**
 
-
-# Checklist
-
-- [ ] My changes generate no new warnings
-- [ ] My changes are not duplicates of existing changes
+`By submitting a pull request, I agree that I have done my best to make sure that it contains no typos and generates no new errors`
+**I agree/I disagree**
