@@ -34,3 +34,9 @@ After configuring a command, you can use the command by typing in `/[configured 
 ***
 
 ## Working with advanced command configuration
+Working with avanced command configuration is pretty simple once you know how to do it so here are a few pointers to get you on the right path!
+
+To start with advanced command configuration, head over to the dashboard ([click here to learn more about the dashboard](https://github.com/Uxtron-team/Uxtron-bot-docs/tree/main/docs/website)) and choose a server you want to bot to change in. Next, select a module (commands or features) and start configuring it! It might take a while for your changes to get sent to the bot so please be patient after you finish customizing the modules.
+
+> **Warning**<br />
+> Please remember to save your changes!
