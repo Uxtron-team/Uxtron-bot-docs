@@ -9,19 +9,33 @@ To start using these features, you have to first enable them. Some features are 
 # Advanced section
 
 ## Basic user management 
-This category is for commands used for user management.
 
-###### General command structure
+###### General basic user management command structure (This is the general structure. Not the DEFINITE structure for all commands)
+```
+Command + [arguments]         <-- BOT COMMAND
+├── Do action specified
+|
+V   
+└── !ERROR!                   <-- ***No current known errors. CONTACT SUPPORT If an error occurs***
+```
+
+## Basic server management 
+
+###### General basic server management command structure (This is the general structure. Not the DEFINITE structure for all commands)
+
+> The command structure below is WIP (Work In Progress)
+
 ```
 Command + [arguments]                         <-- BOT COMMAND
 ├── Confirmation message                      <-- Confirmation menu
-|       ├── ## Await user input ##               
-|       | 
-|       ├── CONFIRM: Do action specified      
-|       |
-|       ├── CANCEL: Cancel action
-|       |
-|       └── User doesn't reply: Cancel action
+|    ├── ## Await user input ##               
+|    | 
+|    ├── CONFIRM: Do action specified      
+|    |
+|    ├── CANCEL: Cancel action
+|    |
+|    └── User doesn't reply: Cancel action
+|
 V   
-└── !ERROR!                                   <-- ***No current known errors. CONTACT SUPPORT If an error occurs***
+└── !ERROR!                   <-- ***No current known errors. CONTACT SUPPORT If an error occurs***
 ```
