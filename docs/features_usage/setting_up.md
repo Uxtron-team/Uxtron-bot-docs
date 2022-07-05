@@ -17,7 +17,7 @@ Steps:
 3. choose the options provided and make changes to them.
 
 
-###### /cmdconfig - command branches
+###### /cmdconfig - command structute
 ```
 /cmdconfig                              <-- BOT COMMAND
 ├── Menu selection                      <-- Menu (split)
