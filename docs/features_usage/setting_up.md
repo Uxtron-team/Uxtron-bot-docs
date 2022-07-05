@@ -17,6 +17,17 @@ Steps:
 3. choose the options provided and make changes to them.
 
 
+###### /cmdconfig - command branches
+```
+/cmdconfig                              <-- BOT COMMAND
+├── Menu selection                      <-- Menu (split)
+|   ├── Individual configuration menus
+|   |   └── Configure                   <-- Main configuration menu
+|   V
+V   └── !ERROR!                         <-- ***No current known errors. CONTACT SUPPORT If an error occurs***
+└── !ERROR!                             <-- ***No current known errors. CONTACT SUPPORT If an error occurs***
+```
+
 If you have finished the steps above, test if the features you changes have been modified! If they have not been changed, wait for a while and if it still doesn't change, contact support.
 
 > **Note**<br />
@@ -27,9 +38,6 @@ Now that you have finished setting up all your features and commands, you can us
 
 ### Features
 Features that you enabled via the dashboard, or the /cmdconfig command (see above) will now be activated and will always be on (unless disabled). For example, if you enable the anti-profanity feature, it will always check for profanity and perform the action specified when configuring the feature.
-
-### Commands
-After configuring a command, you can use the command by typing in `/[configured command]` and any other arguments required. 
 
 ***
 
