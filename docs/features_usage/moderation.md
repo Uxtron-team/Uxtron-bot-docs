@@ -22,9 +22,6 @@ V
 ## Basic server management 
 
 ###### General basic server management command structure (This is the general structure. Not the DEFINITE structure for all commands)
-
-> The command structure below is WIP (Work In Progress)
-
 ```
 Command + [arguments]                         <-- BOT COMMAND
 ├── Confirmation message                      <-- Confirmation menu
