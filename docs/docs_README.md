@@ -37,4 +37,31 @@ Linking websites or linking between docs can be achieved with
 [hyperlink text](#file_name/heading_name)
 ```
 
-> WIP
+### Structures
+Command structures can be achieved with the components
+
+```
+###### Title <-- Structure title
+
+| <-- Connector
+
+├── <-- T-shaped connector
+
+└── <-- End connector
+```
+
+
+-- EXAMPLE COMMAND STRUCTURE --
+
+###### Command structure
+```
+Example command       <-- BOT COMMAND
+├── Example branch
+|   ├── Branch #2a
+|   |   |
+|   |   └── Branch #3
+|   |   
+|   └── Branch #2b
+V   
+└── !ERROR!               <-- ***No current known errors. CONTACT SUPPORT If an error occurs***
+```
