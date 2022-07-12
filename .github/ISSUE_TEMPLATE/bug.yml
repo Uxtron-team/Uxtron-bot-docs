@@ -3,8 +3,6 @@ description: Use this if a bug has been found in the Uxtron bot
 labels: ["bug"]
 body:
   - type: markdown
-  value: "###### Thank you for taking your time to help report this bug! Your help is appreciated."
-  - type: markdown
   value: "@hi-there-child | @King-click | @DecodedFinn | @Creepermonst"
   - type: dropdown
     attributes:
