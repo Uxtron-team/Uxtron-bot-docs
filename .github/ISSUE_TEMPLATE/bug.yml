@@ -10,20 +10,9 @@ body:
         - The bot is not responding
         - The bot is responding incorrectly
         - The bot is not acting correctly
-        - Command argument errors
-        - [GENERAL] Command errors
-        - [GENERAL] Embed errors
-        - [GENERAL] Feature errors
         - Other
     validations:
       required: true
-  - type: textarea
-    id: other
-    attributes:
-      label: other - error type
-      description: If you chose 'other' for the error type (above), please specify the error here.
-    validations:
-      required: false
   - type: textarea
     id: description
     attributes:
@@ -45,13 +34,6 @@ body:
       description: Provide a screenshot and/or video as proof of the bug.
     validations:
       required: true
-  - type: textarea
-    id: extra
-    attributes:
-      label: Extra notes
-      description: If you have anything else you want to say, type them here.
-    validations:
-      required: false
   - type: checkboxes
     id: agreement
     attributes:
