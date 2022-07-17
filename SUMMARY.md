@@ -1,7 +1,6 @@
 # Table of contents
 
 * [📘 Uxtron bot docs](README.md)
-* [Links\_README .md](links\_README.md)
 * [.github](.github/README.md)
   * [PULL\_REQUEST\_TEMPLATE](.github/PULL\_REQUEST\_TEMPLATE.md)
 * [docs](docs/README.md)
@@ -17,3 +16,4 @@
   * [resources](docs/resources/README.md)
     * [individual\_commands](docs/resources/individual\_commands/README.md)
       * [/Mute | Uxtron command](docs/resources/individual\_commands/Mute.md)
+* [Blogs](blogs.md)

@@ -1,4 +1,4 @@
-# 📘 Uxtron bot docs
+# .github
 
 ## Welcome!
 
@@ -28,5 +28,3 @@ If you would like to contribute to this documentation, please go here: ()\[https
 ### Reporting an error or bug
 
 If you want to report an error or bug regarding the Uxtron bot, please create a new issue [here](https://github.com/Uxtron-team/Uxtron-bot-docs/issues/new/choose) and follow the template provided when you create the issue. In order for the bug to be fixed, we will require in-detail explanations on how to reproduce the bug and the bug type (these are all mentioned in the template).
-
-
