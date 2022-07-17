@@ -1,0 +1,18 @@
+# Table of contents
+
+* [📘 Uxtron bot docs](README.md)
+* [Links\_README .md](links\_README.md)
+* [.github](.github/README.md)
+  * [PULL\_REQUEST\_TEMPLATE](.github/PULL\_REQUEST\_TEMPLATE.md)
+* [docs](docs/README.md)
+  * [Welcome to the Uxtron bot documentation!](docs/docs\_README.md)
+  * [bot\_versions](docs/bot\_versions/README.md)
+    * [Version 0.2](docs/bot\_versions/\[0.2].md)
+  * [features\_usage](docs/features\_usage/README.md)
+    * [moderation](docs/features\_usage/moderation.md)
+    * [Setting up](docs/features\_usage/setting\_up.md)
+  * [website](docs/website/README.md)
+    * [dashboard\_overview](docs/website/dashboard\_overview.md)
+  * [resources](docs/resources/README.md)
+    * [individual\_commands](docs/resources/individual\_commands/README.md)
+      * [/Mute | Uxtron command](docs/resources/individual\_commands/Mute.md)
