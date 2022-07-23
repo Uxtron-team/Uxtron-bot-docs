@@ -1,5 +1,5 @@
 # The Uxtron bot documentation
-###### Uxtron, the future of discord bots
+###### Uxtron. The future of discord bots
 
 
 <img src="https://user-images.githubusercontent.com/65468855/180603972-d5e795e1-220a-47ff-a219-2f731f0d92e7.png" width="500"/>
