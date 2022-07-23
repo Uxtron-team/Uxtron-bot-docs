@@ -1,21 +1,30 @@
-# .github
+# The Uxtron bot documentation
+###### Uxtron, the future of discord bots
+
+
+<img src="https://user-images.githubusercontent.com/65468855/180603972-d5e795e1-220a-47ff-a219-2f731f0d92e7.png" width="500"/>
+
 
 ## Welcome!
 
-If you are reading this, you probably want to find out more about the Uxtron bot and how to use this. If this is the case, you've come to the right place. We will teach you how to:
+Hello! Welcome to the Uxtron bot documentation. Here, you will find out how to
 
 * Use the bot's features and commands
 * Use the bot to improve your server experience
 * Use the dashboard
 * and a lot more!
 
-### Before you continue
+But first, what is Uxtron? Well Uxtron is a multi-purpose bot that will help you improve your discord server to levels you have never seen before with other bots. Apart from that, it is also relatively easy to customize and has tons of features that you can use.
 
-Before you continue, please make sure that you will not abuse the bot in any way and will not use it to violate the discord [TOS](https://discord.com/guidelines).
+***
 
-## Important
+## !!! Important !!!
 
-Make sure you read before contributing or submitting errors!
+Before you start using the bot, please make sure that you will not abuse the bot in any way and will not use it to violate the discord [TOS](https://discord.com/guidelines).
+
+***
+
+## Contributing
 
 ### Feature requests
 
@@ -23,7 +32,7 @@ To submit a feature request, please [click here](https://github.com/Uxtron-team/
 
 ### Contributions
 
-If you would like to contribute to this documentation, please go here: ()\[https://github.com/Uxtron-team/uxtron-bot-docs], commit to a new branch, and submit a pull request with the [pull request template](https://github.com/Uxtron-team/Uxtron-bot-docs/.github/PULL\_REQUEST\_TEMPLATE/PR\_template.md).
+If you would like to contribute to this documentation, please go [here](https://github.com/Uxtron-team/uxtron-bot-docs), commit to a new branch, and submit a pull request with the [pull request template](https://github.com/Uxtron-team/Uxtron-bot-docs/.github/PULL\_REQUEST\_TEMPLATE/PR\_template.md).
 
 ### Reporting an error or bug
 
