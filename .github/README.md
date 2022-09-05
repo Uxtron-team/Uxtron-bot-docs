@@ -1,39 +1,10 @@
-# The Uxtron bot documentation
-###### Uxtron. The future of discord bots
+# Hello! Hola! नमस्ते! привет! привіт! 你好! 안녕하세요!
+<img src="https://user-images.githubusercontent.com/65468855/188418632-134aa751-64d4-4bb2-ba7f-e6d12c951de1.png" width="200" height="200"> 
+Uxtron is a multipurpose discord bot that provides countless features to aid you in the creation in your discord server as well as enhancing the experience for everyone.
 
+## Uxtron's mission and goal
+Uxtron aim's to enhance and uplevel your discord server experience not only for the creators of the discord server but everyone. Uxtron was made to help server creators improve their discord server with many features such as giveaways, reaction roles, custom embeds and way more!
 
-<img src="https://user-images.githubusercontent.com/65468855/180603972-d5e795e1-220a-47ff-a219-2f731f0d92e7.png" width="500"/>
+## Contributing: helping with the Uxtron bot docs
+If you would like ot help us improve the Uxtron bot documentation, feel free to commit your edits to a new branch. Make sure to name your branch using the following format: ```'YOUR GITHUB USERNAME-DATE CHANGES COMMITED'```. The 'DATE CHANGES COMMITED' uses the following date format: `MM/DD/YYYY`. Example branch name: `myname-09052022`
 
-
-## Welcome!
-
-Hello! Welcome to the Uxtron bot documentation. Here, you will find out how to
-
-* Use the bot's features and commands
-* Use the bot to improve your server experience
-* Use the dashboard
-* and a lot more!
-
-But first, what is Uxtron? Well Uxtron is a multi-purpose bot that will help you improve your discord server to levels you have never seen before with other bots. Apart from that, it is also relatively easy to customize and has tons of features that you can use.
-
-***
-
-## !!! Important !!!
-
-Before you start using the bot, please make sure that you will not abuse the bot in any way and will not use it to violate the discord [TOS](https://discord.com/guidelines).
-
-***
-
-## Contributing
-
-### Feature requests
-
-To submit a feature request, please [click here](https://github.com/Uxtron-team/Uxtron-bot-docs/discussions/new) and **select the feature request tag**.
-
-### Contributions
-
-If you would like to contribute to this documentation, please go [here](https://github.com/Uxtron-team/uxtron-bot-docs), commit to a new branch, and submit a pull request with the [pull request template](https://github.com/Uxtron-team/Uxtron-bot-docs/.github/PULL\_REQUEST\_TEMPLATE/PR\_template.md).
-
-### Reporting an error or bug
-
-If you want to report an error or bug regarding the Uxtron bot, please create a new issue [here](https://github.com/Uxtron-team/Uxtron-bot-docs/issues/new/choose) and follow the template provided when you create the issue. In order for the bug to be fixed, we will require in-detail explanations on how to reproduce the bug and the bug type (these are all mentioned in the template).
