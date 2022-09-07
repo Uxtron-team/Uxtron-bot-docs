@@ -1,5 +1,5 @@
 # Welcome to the Uxtron bot documentation!
-This is where you will find detailed explanations on everything to do with the Uxtron bot. If you want a simple overview, [click here](https://github.com/Uxtron-team/Uxtron-bot-docs/wiki).
+This is where you will find detailed explanations on everything to do with the Uxtron bot.
 
 ***
 
@@ -38,33 +38,4 @@ Linking websites or linking between docs can be achieved with
 \[`DISPLAY TEXT`](`DOCS LINK`)
 ```
 [hyperlink text](#file_name/heading_name)
-```
-
-### Structures
-Command structures can be achieved with the components
-
-```
-###### Title <-- Structure title
-
-| <-- Connector
-
-├── <-- T-shaped connector
-
-└── <-- End connector
-```
-
-
--- EXAMPLE COMMAND STRUCTURE --
-
-###### Command structure
-```
-Example command       <-- BOT COMMAND
-├── Example branch
-|   ├── Branch #2a
-|   |   |
-|   |   └── Branch #3
-|   |   
-|   └── Branch #2b
-V   
-└── !ERROR!               <-- ***No current known errors. CONTACT SUPPORT If an error occurs***
 ```
