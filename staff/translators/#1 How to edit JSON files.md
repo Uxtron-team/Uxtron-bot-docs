@@ -1,4 +1,4 @@
-# #1 How to use a JSON file
+# #1 How to edit JSON files
 Well hello there translator! If you're reading this, you probably want to understand how to put your translations into the JSON file. No problem! We're here to help.
 
 ## First of all...
