@@ -1,3 +1,10 @@
+---
+title: Getting started
+description: The guide to setting up Uxtron and getting started with using its features and commands.
+layout: default
+permalink: /getting_started.html
+---
+
 # Getting started
 ###### Uxtron is a powerful multipurpose discord bot that provides countless features to aid you in the creation in your discord server as well as enhancing the experience for everyone.
 ## 1) Adding Uxtron
