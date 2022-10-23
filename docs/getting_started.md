@@ -3,7 +3,7 @@
 ## 1) Adding Uxtron
 To add Uxtron to your server, click [here](https://discord.com/api/oauth2/authorize?client_id=882000000000000000&permissions=8&scope=bot%20applications.commands) and select the server you want to add Uxtron to. If you are not the server owner, you will need the `Manage Server` permission to add Uxtron to the server. You can also try Uxtron Premium for free with our free trial that lasts for 2 weeks (14 days). To try Uxtron Premium, click [here](https://discord.com/api/oauth2/authorize?client_id=882000000000000000&permissions=8&scope=bot%20applications.commands&guild_id=882000000000000000&disable_guild_select=true).
 ## 2) Setting up Uxtron
-To setup Uxtron, you can run the `/activate` command. This will start the setup process. You can also run the `/activate` command to verify all settings and fix any incorrect or corrupt settings, roles and permissions. Please note that the `Adminstrator` permission will be required when activating Uxtron. To automatically setup Uxtron based on your desired settings and preferences, you can run type in the following:
+To set up Uxtron, you can run the `/activate` command. This will start the setup process. You can also run the `/activate` command to verify all settings and fix any incorrect or corrupt settings, roles and permissions. Please note that the `Adminstrator` permission will be required when activating Uxtron. To automatically setup Uxtron based on your desired settings and preferences, you can run type in the following:
 ```text
 ux> activate --auto 
 ```
