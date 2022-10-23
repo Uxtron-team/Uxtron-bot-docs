@@ -31,6 +31,7 @@ After you have added Uxtron to your server, you will need to make sure that Uxtr
 Note that the permissions listed above are just basic permissions to make sure that the general features work. Some commands will require more permissions. For example, the `/purge` command will require the `Manage Messages` permission to function.
 
 > **Note**
+> 
 > By revoking the `Adminstrator` permission, you will need to manually add the permissions required to allow commands to work properly. It is therefore advised that you keep the `Adminstrator` permission.
 
-## 4) WIP
+## 4) Using your first command
