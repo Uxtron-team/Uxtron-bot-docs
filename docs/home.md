@@ -1,5 +1,8 @@
 ---
-permalink: /home.html
+title: 404 - Page not found
+description: The page you are looking for does not exist.
+layout: default
+permalink: /404.html
 ---
 
 # 👋 Hello! Hola! नमस्ते! привет! привіт! 你好! 안녕하세요!
