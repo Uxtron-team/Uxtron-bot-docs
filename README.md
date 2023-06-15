@@ -1,6 +1,5 @@
+##### ⚠️ Documentation deprecated. Go to our website instead for the website.
 # 👋 Hello! Hola! नमस्ते! привет! привіт! 你好! 안녕하세요!
-<img src="https://user-images.githubusercontent.com/65468855/188418632-134aa751-64d4-4bb2-ba7f-e6d12c951de1.png" width="200" height="200"> 
-
 Uxtron is a multipurpose discord bot that provides countless features to aid you in the creation in your discord server as well as enhancing the experience for everyone.
 
 ## 🚩 Uxtron's mission and goal
